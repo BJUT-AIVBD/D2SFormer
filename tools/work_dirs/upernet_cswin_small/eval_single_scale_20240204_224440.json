@@ -1,0 +1,20 @@
+{
+    "config": "../configs/cswin/upernet_cswin_small.py",
+    "metric": {
+        "aAcc": 0.9571999999999999,
+        "mIoU": 0.9129,
+        "mAcc": 0.9523,
+        "IoU.impervious_surface": 0.9780000305175781,
+        "IoU.building": 0.8929000091552735,
+        "IoU.low_vegetation": 0.870999984741211,
+        "IoU.tree": 0.9501000213623046,
+        "IoU.car": 0.8727999877929687,
+        "IoU.clutter": NaN,
+        "Acc.impervious_surface": 0.9912999725341797,
+        "Acc.building": 0.9412000274658203,
+        "Acc.low_vegetation": 0.9341000366210938,
+        "Acc.tree": 0.9741000366210938,
+        "Acc.car": 0.9209999847412109,
+        "Acc.clutter": NaN
+    }
+}
